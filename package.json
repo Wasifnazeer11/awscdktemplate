@@ -1,5 +1,5 @@
 {
-  "name": "npxpackagecdk",
+  "name": "awscdktemplate",
   "version": "0.1.0",
   "bin": {
     "npxpackage": "bin/npxpackage.js"
